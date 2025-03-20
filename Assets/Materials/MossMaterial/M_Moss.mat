@@ -43,7 +43,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _AccumulationSize: 25
-    - _Amount: 0.699
+    - _Amount: 0.762
     - _Blend: 100
     - _NoiseSize: 400
     - _NoiseStrenght: 1
